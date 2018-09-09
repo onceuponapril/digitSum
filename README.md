@@ -1,0 +1,2 @@
+# digitSum
+AI_Challenge
